@@ -1,0 +1,97 @@
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    .part-1 {
+        margin: 0%;
+        background-size: 50%;
+    }
+    
+    .part-1 {
+        display: flex;
+        margin-bottom: 150px;
+    }
+    
+    .half-width {
+        width: 50%;
+        padding: 2%;
+        font-size: 50px;
+    }
+    
+    .half-width img {
+        width: 80%;
+    }
+    
+    .btn {
+        text-decoration: none;
+        background-image: linear-gradient(orange, tomato);
+        color: white;
+        font-weight: 700;
+        padding: 20px 40px;
+        border-radius: 50px;
+        box-shadow: 10px 10px 40px orangered;
+    }
+    
+    .Part-2 {
+        margin: 0%;
+        background-size: 50%;
+        display: flex;
+        margin-bottom: 150px;
+        background-image: url(images/shapes/7.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    
+    .Part-3 {
+        height: 1px;
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .Copul {
+        display: flex;
+    }
+    
+    .Box-shadw {
+        margin: 2%;
+        width: 50%;
+        padding: 2%;
+        font-size: 20px;
+    }
+    
+    .Box-shadw img {
+        width: 100%;
+        size: 70%;
+    }
+    
+    .Box-shadw {
+        box-shadow: 10px 10px 20px black;
+        border: 0px;
+        border-radius: 40px;
+        padding: 20px 10px;
+        width: 100%;
+    }
+    
+    .part-4 {
+        display: flex;
+        box-shadow: 5px 5px 40px gray;
+        border-radius: 20px;
+        margin: 50px;
+        text-align: start;
+    }
+    
+    .half-width {
+        margin-left: 100px;
+        font-size: 30px;
+    }
+    
+    .foter {
+        background-color: black;
+        color: white;
+        font-size: medium;
+        padding: 50px;
+    }
+    
+    .color {
+        color: orange;
+    }
